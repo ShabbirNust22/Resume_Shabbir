@@ -5,7 +5,7 @@ https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fYpuCaMAAA
 
 LinkedIn: https://www.linkedin.com/in/shabbir-moomin
 
-# Links
+## 🧠 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/shabbir-moomin)
 
