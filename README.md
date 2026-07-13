@@ -8,6 +8,7 @@ LinkedIn: https://www.linkedin.com/in/shabbir-moomin
 ## 🧠 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/shabbir-moomin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/shabbir-moomin)
 
 
 
