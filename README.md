@@ -1,4 +1,8 @@
 <h1 align="center">Ahmed Shabbir Ibrahim Moomin 😃⚡</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shabbir-moomin&color=blue&style=flat-square" alt="Profile Views">
+  &nbsp;&nbsp;<strong>Thank you for viewing my portfolio</strong>
+</p>
 
 
 <h2 align="center">Role: Engineer (Primary) | Data Analytics | Machine Learning Tools | Artificial Intelligence Techniques | Full Stack Developer</h2>
